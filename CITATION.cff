@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the companion manuscript and identify the v1.0.0 code tag."
+title: "Realized-Force Safety Envelopes and Information-Age Admissibility for Heavy-Truck Platoons: Minimal Reproduction Code"
+version: 1.0.0
+date-released: 2026-09-29
+url: https://github.com/lanston12/realized-force-safety-envelope-repro
+authors:
+  - family-names: Feng
+    given-names: Jianbo
+  - family-names: Gao
+    given-names: Zepeng
+  - family-names: Guo
+    given-names: Bingying
+  - family-names: Wang
+    given-names: Yanxue
+  - family-names: Guo
+    given-names: Zhenkun

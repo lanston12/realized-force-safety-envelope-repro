@@ -1,0 +1,34 @@
+{
+  "results_processed_v5/fig3_v5.csv": {
+    "rows": 3780,
+    "normalized_sha256": "b246ef25512018f48792e93504e4b16c19a0ceaf375d216f9cc2705466a8ab75"
+  },
+  "results_processed_v5/fig4_v5.csv": {
+    "rows": 42723,
+    "normalized_sha256": "b91276b3e70dd60236f8a59286605f8d2dc678f35e849b3fca18be06c621ffd0"
+  },
+  "results_processed_v5/analytical_sensing.csv": {
+    "rows": 402,
+    "normalized_sha256": "22cff4d14d6f1be95cb2a34df27de661e66741e184936240b91bf593721c8137"
+  },
+  "results_processed_v5/comparator_curve.csv": {
+    "rows": 500,
+    "normalized_sha256": "d3bf94a85a7efc9deb7da18e572c758692d42d502f975aa74b35f8730ec63e58"
+  },
+  "tables_v5/selected_analytical_results.csv": {
+    "rows": 27,
+    "normalized_sha256": "fc1741d3e82bcb725da996346e5c1f6c1eb9658677f59f3dc8f1165ca88cfb27"
+  },
+  "tables_v5/interface_comparison.csv": {
+    "rows": 3,
+    "normalized_sha256": "f724a486306aef61acc24f57e19944c12ba311344f85cae41db586cfe9b71889"
+  },
+  "certificate_sensitivity_v5.csv": {
+    "rows": 128,
+    "normalized_sha256": "658ea94677282103fc82645d4b15b9070570e2bea79b1160c134008d65d9028f"
+  },
+  "results_raw/force_sector_verification.csv": {
+    "rows": 20000,
+    "normalized_sha256": "e9a8af5fe211efc5fdaa14f90a5a47a267de47f19d91d14021b3304965506d36"
+  }
+}
